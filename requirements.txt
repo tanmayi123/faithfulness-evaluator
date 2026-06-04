@@ -13,6 +13,7 @@ datasets==4.8.5
 dill==0.4.1
 distro==1.9.0
 docstring_parser==0.18.0
+et_xmlfile==2.0.0
 filelock==3.29.0
 frozenlist==1.8.0
 fsspec==2026.2.0
@@ -28,6 +29,7 @@ mdurl==0.1.2
 multidict==6.7.1
 multiprocess==0.70.19
 numpy==2.4.6
+openpyxl==3.1.5
 packaging==26.2
 pandas==3.0.3
 propcache==0.5.2
